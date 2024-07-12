@@ -1,4 +1,4 @@
-# demo_jdbc
+# CONDUCTORES
 
 `demo_jdbc` es una aplicación Java que utiliza JDBC para interactuar con una base de datos y proporciona estadísticas de la Fórmula 1 a través de una interfaz gráfica de usuario (GUI).
 
@@ -37,6 +37,7 @@ A continuación, se muestra una captura de pantalla de la aplicación en ejecuci
 
 ![Formula 1 Statistics]( https://github.com/BryanR69/CONDUCTORES/blob/main/Captura%20de%20pantalla%202024-07-08%20235515.png)
 
+![Formula 1 Statistics]( https://github.com/BryanR69/CONDUCTORES/blob/main/Captura%20de%20pantalla%202024-07-08%20143614.png)
 ## Descripción de la Funcionalidad
 
 ### Interfaz Gráfica
