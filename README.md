@@ -38,6 +38,7 @@ A continuación, se muestra una captura de pantalla de la aplicación en ejecuci
 ![Formula 1 Statistics]( https://github.com/BryanR69/CONDUCTORES/blob/main/Captura%20de%20pantalla%202024-07-08%20235515.png)
 
 ![Formula 1 Statistics]( https://github.com/BryanR69/CONDUCTORES/blob/main/Captura%20de%20pantalla%202024-07-08%20143614.png)
+
 ## Descripción de la Funcionalidad
 
 ### Interfaz Gráfica
